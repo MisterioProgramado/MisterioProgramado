@@ -29,7 +29,21 @@
 - 🌱 Actualmente me estoy enfocando en el desarollo de páginas web.
 - 👯 Me gustaria trabajar con desarrolladores. :wink:
 - 🥅 Mis metas de este 2025 es en el desarrollo de aplicaciones que ayuden el estudio de Matemáticas Discretas.
-- 📬 Contactame: [Da clic aquí!] [linkedin]
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+</head>
+<body>
+  <p>📬 Contactame: 
+    <a href="https://www.linkedin.com/in/TU_URL_DE_LINKEDIN" target="_blank">
+      Da clic aquí!
+    </a>
+  </p>
+</body>
+</html>
 
 
 ### Lenguajes en los que me desempeño: 
@@ -54,6 +68,13 @@
 <br>
 <br>
 <br>
+
+
+
+
+
+
+
 
 
 
