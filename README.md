@@ -14,8 +14,6 @@
 <p align="center">
 <br>
 
-<a href="https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:tallurisaisumanth77@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
 </p>
 
@@ -38,7 +36,7 @@
 </head>
 <body>
   <p>📬 Contactame: 
-    <a href="https://www.linkedin.com/in/TU_URL_DE_LINKEDIN" target="_blank">
+    <a href="https://www.linkedin.com/in/eduardo-huerta-de-jesus-a587a4225" target="_blank](https://www.linkedin.com/in/eduardo-huerta-de-jesus-a587a4225">
       Da clic aquí!
     </a>
   </p>
