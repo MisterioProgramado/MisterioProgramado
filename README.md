@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"Las cosas más importantesque tú objetivo pueden estar ahí, aún lado del camino"</b></h4>
+  <h4 align="center"><b>"Las cosas más importantes que tú objetivo pueden estar ahí, aún lado del camino"</b></h4>
 </p>
 
 <p>
